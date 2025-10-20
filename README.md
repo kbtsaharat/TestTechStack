@@ -1,4 +1,3 @@
-```markdown
 # 🚀 TestTechStack
 
 A **Fullstack project** built with **NestJS (Backend)** + **Next.js (Frontend)** + **Prisma ORM** + **shadcn/ui** + **Tailwind CSS**.
@@ -8,7 +7,6 @@ A **Fullstack project** built with **NestJS (Backend)** + **Next.js (Frontend)**
 ## 📂 Project Structure
 
 ```
-
 TestTechStack/
 ├── backend/     # NestJS API Server
 │   ├── src/
@@ -23,7 +21,6 @@ TestTechStack/
 │   └── ...
 │
 └── README.md
-
 ````
 
 ---
@@ -120,5 +117,3 @@ App will run at:
 ## 📄 License
 
 This project is open source and available under the [MIT License](LICENSE).
-
-````
