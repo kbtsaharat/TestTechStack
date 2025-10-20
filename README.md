@@ -101,9 +101,11 @@ App will run at:
 
 ## 🧱 UI Preview
 
-![App Screenshot](https://github.com/kbtsaharaf/TestTechStack/assets/preview.png)
-
-*(You can add your screenshot here later — จากรูปที่คุณแชร์ในแชตเลยครับ)*
+<p align="center">
+  <img src="https://github.com/kbtsaharat/TestTechStack/blob/main/Screenshot%202025-10-20%20172112.png?raw=true" alt="App Screenshot" width="800"/>
+  <br/>
+  <em>✨ Full-stack CRUD app with Sidebar + shadcn/ui + Prisma + PostgreSQL ✨</em>
+</p>
 
 ---
 
