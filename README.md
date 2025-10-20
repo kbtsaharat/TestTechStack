@@ -110,7 +110,7 @@ App will run at:
 ## 🧑‍💻 Author
 
 **Saharath Chanachai**
-📧 [Contact via GitHub](https://github.com/kbtsaharaf)
+📧 [Contact via GitHub](https://github.com/kbtsaharat)
 
 ---
 
