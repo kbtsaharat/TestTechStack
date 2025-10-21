@@ -103,9 +103,11 @@ App will run at:
 
 <p align="center">
   <img src="https://github.com/kbtsaharat/TestTechStack/blob/main/Screenshot%202025-10-20%20172112.png?raw=true" alt="App Screenshot" width="800"/>
-  <img src="https://github.com/kbtsaharat/TestTechStack/blob/main/Screenshot%202025-10-21%20133902.png?raw=true" alt="App Screenshot" width="800"/>
   <br/>
   <em>Full-stack CRUD app with Sidebar + shadcn/ui + Prisma + PostgreSQL</em>
+  <img src="https://github.com/kbtsaharat/TestTechStack/blob/main/Screenshot%202025-10-21%20133902.png?raw=true" alt="App Screenshot" width="800"/>
+  <br/>
+  <em>Light / Dark Mode</em>
 </p>
 
 ---
